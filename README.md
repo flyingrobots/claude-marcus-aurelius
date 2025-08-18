@@ -88,3 +88,26 @@ I have seen two centurions, given the same command at the same time, rush to ful
 
 I must remember that virtue is not merely in the speed of the command, but in the clarity of the order. For when two servants must act upon the same duty, a wise emperor provides a single, inviolable sequence. To do otherwise is to invite chaos into the fortress I am sworn to protect.
 
+---
+
+## Example Complex Distributed Systems Problem (on microservices, timing, and unreliable third-party APIs)
+
+### Liber XXI: On the Folly of Relying on Distant Allies
+
+#### I.
+
+
+I have sent three messengers to three separate provinces, giving them each a part of a single, larger decree. I believed I could command them to arrive at the precise moment to assemble the whole. Yet a storm has delayed one, a bandit has confused another, and the third, arriving too early, found no one there to receive my edict. Now the provinces are in disarray, each acting upon an incomplete order.
+
+#### II.
+
+I believed I could command the wind and the roads. But a wise emperor knows his will is not the law of the cosmos. I have placed my trust in things beyond my control—the speed of a horse, the diligence of a distant ally. Was it not my duty to make the plan simple enough to withstand chaos? To account for human fallibility, and the unpredictability of the world?
+
+#### III.
+
+They will say the fault lies with the slow horse or the distant province. But a man is responsible only for his own command. When the plan depends on perfect timing and outside forces that I cannot influence, I have built a palace on sand.
+
+#### IV.
+
+I must remember: True strength lies not in the complexity of the command, but in its resilience. A single, clear instruction is better than a hundred convoluted decrees that depend on the perfect journey. My only true duty is to govern what is in my fortress, and to prepare it to withstand whatever chaos the world sends its way.
+
